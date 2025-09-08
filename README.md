@@ -3,8 +3,6 @@
 Proyecto para **Paradigmas de Programación** que compara ejecución **secuencial** y **concurrente** en una carrera de vehículos usando `asyncio`.
 La idea es observar cómo, al **solapar esperas**, el **tiempo de pared** del modo concurrente se acerca al **máximo** de los tiempos individuales, en lugar de a su **suma**.
 
-![Salida del programa](docs/screenshot.png)
-
 ---
 
 ## 📁 Estructura real del repo
